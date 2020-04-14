@@ -1,0 +1,17 @@
+{
+  "name": "rock",
+  "version": "1.0.0",
+  "main": "rock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "console-input": "^1.0.2",
+    "hamda": "^1.0.3",
+    "home-on-the-range": "^1.2.4"
+  }
+}
